@@ -62,7 +62,8 @@ We use microservices architecture:
 | API          | `'Node','Nest JS','DB: PostgreSQL' `             
 | MOBILE APP   | `'ReactNative', 'ExpoCLI'`                       |
 
-## 🤝 FOR ANY QUERIES OR TO GET ACCESS TO THE CODE GET IN TOUCH WITH ME 
+## 🤝 FOR ANY QUERIES OR TO GET ACCESS TO THE SOURCE CODE, CONTACT ME .
+##  Hi there, I'm <a href="https://azrinaluna.net" target="_blank">Azrina Luna</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Web Badge](https://img.shields.io/badge/🌐Website-1877F2?style=for-the-badge&logo=&logoColor=white)](https://azrinaluna.net/) 
 [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azrina-A-Luna) 
